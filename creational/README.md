@@ -44,7 +44,7 @@ Alice and Bob knew that the first step in building their house was to have a blu
 #### The Construction Company (Factory Method Pattern)
 With the blueprint in hand, Alice and Bob went to a renowned construction company in Codeville. They didn’t need to understand the intricacies of building a house; they just told the company what type of house they wanted. The company had different methods for constructing various styles of houses: modern, traditional, and eco-friendly. The Factory Method pattern came into play here, allowing the company to create the specific type of house Alice and Bob desired without them needing to know the detailed construction process.
 
-### The Step-by-Step Process (Builder Pattern)
+#### The Step-by-Step Process (Builder Pattern)
 The construction company began building the house. First, they laid the foundation, then built the frame, followed by installing the roof, and so on. Each step was meticulously planned and executed in sequence, ensuring the house was built perfectly. This process mirrored the Builder pattern, where a complex object (the house) was constructed step by step, ensuring each part was completed correctly before moving to the next.
 
 #### The Model Home (Prototype Pattern)
