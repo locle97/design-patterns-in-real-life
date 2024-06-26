@@ -1,0 +1,14 @@
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\bin\Debug\net7.0\Creational.Singleton.exe
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\bin\Debug\net7.0\Creational.Singleton.deps.json
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\bin\Debug\net7.0\Creational.Singleton.runtimeconfig.json
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\bin\Debug\net7.0\Creational.Singleton.dll
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\bin\Debug\net7.0\Creational.Singleton.pdb
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\Creational.Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\Creational.Singleton.AssemblyInfoInputs.cache
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\Creational.Singleton.AssemblyInfo.cs
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\Creational.Singleton.csproj.CoreCompileInputs.cache
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\Creational.Singleton.dll
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\refint\Creational.Singleton.dll
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\Creational.Singleton.pdb
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\Creational.Singleton.genruntimeconfig.cache
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Singleton\obj\Debug\net7.0\ref\Creational.Singleton.dll

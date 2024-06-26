@@ -1,0 +1,14 @@
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\bin\Debug\net7.0\Creational.Prototype.exe
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\bin\Debug\net7.0\Creational.Prototype.deps.json
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\bin\Debug\net7.0\Creational.Prototype.runtimeconfig.json
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\bin\Debug\net7.0\Creational.Prototype.dll
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\bin\Debug\net7.0\Creational.Prototype.pdb
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\Creational.Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\Creational.Prototype.AssemblyInfoInputs.cache
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\Creational.Prototype.AssemblyInfo.cs
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\Creational.Prototype.csproj.CoreCompileInputs.cache
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\Creational.Prototype.dll
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\refint\Creational.Prototype.dll
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\Creational.Prototype.pdb
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\Creational.Prototype.genruntimeconfig.cache
+D:\Coding\Research\design-patterns-in-real-life\creational\code-examples\Creational.Prototype\obj\Debug\net7.0\ref\Creational.Prototype.dll
